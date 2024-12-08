@@ -1,0 +1,5 @@
+outs:
+- md5: 56014ed7712b3cdc1c9247f407716063
+  size: 3249194
+  hash: md5
+  path: consulta_automotores_filtrada.csv
