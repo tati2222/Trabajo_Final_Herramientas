@@ -1,0 +1,5 @@
+outs:
+- md5: d779b7be53e0b542d391805b8d819aea
+  size: 3752533
+  hash: md5
+  path: consulta_automotores_2024.csv
